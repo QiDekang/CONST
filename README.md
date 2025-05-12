@@ -6,4 +6,4 @@ Dekang Qi, Xiuwen Yi, Chengjie Guo, Yanyong Huang, Junbo Zhang, Tianrui Li, and 
 
 
 ## Figure 5: Interpretability on PD Plot vs RPD plot
-![Figure 5: Interpretability on PD Plot vs RPD plot](./plot_kdd/case_study/Figure_5_PD_RPD_plot.png)
+![Figure 5: Interpretability on PD Plot vs RPD plot](./plot_kdd/case_study/case_study_in_paper.png)
